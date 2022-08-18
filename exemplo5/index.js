@@ -1,5 +1,5 @@
 let aluno = "rafa";
-let idade = 15;
+let idade = 28;
 import chalk from 'chalk';
 console.log(chalk.magenta('Trabalhando com NPM'));
 if (idade >= 18) {
